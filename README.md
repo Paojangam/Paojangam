@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Paojangam/Minders/frontend/public/assets/dashboard.png" width="700"/>
-</p>
+
 
 # 👋 Hi, I'm Paojangam Kipgen
 <img src="https://img.shields.io/badge/Email-paojangam1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> 
@@ -61,7 +58,6 @@
 <p align="center">
 
 <!-- GitHub Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paojangam&theme=dracula&hide_border=false" width="600" />
 
 </p>
 
