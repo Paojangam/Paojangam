@@ -1,14 +1,6 @@
 # 👋 Hi, I'm Paojangam Kipgen
 
-I’m all about words and code — I love finding meaning in poetry and making sense of things through programming.  
-I enjoy writing to express myself and building software that’s both useful and meaningful.
-
----
-
-****🚀 **Full Stack Developer** | React | Node.js | MongoDB | Python | AI Enthusiast  
-💡 Passionate about building scalable web apps, clean code, and AI-powered projects  
-🌱 Currently learning: Linux, PostgreSQL****
----
+"I dance between words and code — finding rhythm in algorithms and meaning in poetry. I craft software that’s both purposeful and expressive, while exploring new horizons in AI and full-stack development. 🚀 React | Node.js | MongoDB | Python. 🌱 Currently mastering Linux and PostgreSQL."
 
 ## 🔧 Tech Stack & Skills
 
