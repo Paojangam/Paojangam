@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Paojangam/Minders/frontend/public/assets/dashboard.png" width="600"/>
-</p>
+
 
 # 👋 Hi, I'm Paojangam Kipgen
 
