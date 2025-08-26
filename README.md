@@ -40,7 +40,7 @@
 | Project | Description | Link |
 | ------- | ----------- | ---- |
 | 🧠 **Minders App** | Mental health app with AI mood detection, chatbot, journaling, exercises, and articles | [GitHub](https://github.com/Paojangam/Minders) |
-| 🚗 **EV Update** | Full-stack CRUD app for vehicle tracking | [GitHub](https://github.com/Paojangam/DriveSync) |
+| 🚗 **EV Update** | Full-stack CRUD app for vehicle tracking | [GitHub](https://github.com/AvinashxDubey/DriveSync) |
 | 📊 **Dashboard App** | React dashboard with interactive charts | [GitHub](https://github.com/Paojangam/dashboard) |
 
 ---
