@@ -63,7 +63,7 @@
 <p align="center">
 
 <!-- Extra fancy badges -->
-<img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=paojangam&theme=dark)
 <img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
 <img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
 
