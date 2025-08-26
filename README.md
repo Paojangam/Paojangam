@@ -1,10 +1,15 @@
-
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Paojangam/Minders/frontend/public/assets/dashboard.png" width="700"/>
+</p>
 
 # 👋 Hi, I'm Paojangam Kipgen
+<img src="https://img.shields.io/badge/Email-paojangam1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> 
+
 
 🚀 **Full Stack Developer** | React | Node.js | MongoDB | Python | AI Enthusiast  
 💡 Passionate about building scalable web apps, clean code, and AI-powered projects  
-🌱 Currently learning: [ADD HERE]  
+🌱 Currently learning: Linux, PostgreSQL  
 
 ---
 
@@ -37,8 +42,7 @@
 | Project | Description | Link |
 | ------- | ----------- | ---- |
 | 🧠 **Minders App** | Mental health app with AI mood detection, chatbot, journaling, exercises, and articles | [GitHub](https://github.com/Paojangam/Minders) |
-| 🚗 **EV Update** | Full-stack CRUD app for vehicle tracking | [GitHub](https://github.com/AvinashxDubey/DriveSync) |
-| 📊 **Dashboard App** | React dashboard with interactive charts | [GitHub](https://github.com/Paojangam/dashboard) |
+| 🚗 **EV Update** | Web app that allows EV owners to update their Vehicle Software | [GitHub](https://github.com/AvinashxDubey/DriveSync) |
 
 ---
 
@@ -57,32 +61,18 @@
 <p align="center">
 
 <!-- GitHub Streak Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paojangam&theme=dracula&hide_border=false" width="600" />
 
 </p>
 
 <p align="center">
 
 <!-- Extra fancy badges -->
-
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" /> 
 <img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
 <img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
 
-
 </p>
-
----
-
-## 🌱 Currently Learning
-
-- Linux 
-- PostgreSQL 
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/)  
-
 
 ---
 
@@ -91,3 +81,9 @@
 - 📚 I love to read books and explore new ideas  
 - ✍️ I enjoy writing, especially poetry and personal reflections  
 
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/paojangam/)  
