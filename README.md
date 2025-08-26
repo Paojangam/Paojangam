@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Paojangam Kipgen
-I’m all about words and code — I love finding meaning in poetry and making sense of things through programming. I enjoy writing to express myself and building software that’s both useful and meaningful
+I’m all about words and code — I love finding meaning in poetry and making sense of things through programming. I enjoy writing to express myself and building software that’s both useful and meaningful.
+I am a:
 
 🚀 **Full Stack Developer** | React | Node.js | MongoDB | Python | AI Enthusiast  
 💡 Passionate about building scalable web apps, clean code, and AI-powered projects  
