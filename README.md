@@ -45,11 +45,32 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paojangam&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paojangam&layout=compact&theme=tokyonight" width="350"/>
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Paojangam&count_private=true&show_icons=true&theme=dracula&hide_border=false" width="450" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paojangam&layout=compact&theme=dracula&hide_border=false" width="320" />
+
+</p>
+
+<p align="center">
+
+<!-- GitHub Streak Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paojangam&theme=dracula&hide_border=false" width="600" />
+
+</p>
+
+<p align="center">
+
+<!-- Extra fancy badges -->
+<img src="https://img.shields.io/github/followers/Paojangam?style=social" /> 
+<img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
+<img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
+
 </p>
 
 ---
@@ -64,8 +85,7 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://[ADD HERE])  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[ADD HERE])  
+
 
 ---
 
