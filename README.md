@@ -65,8 +65,7 @@
 
 <!-- Extra fancy badges -->
 
-<img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
-<img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
+
 
 </p>
 
