@@ -61,6 +61,7 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 </p>
 
 <p align="center">
+
 ![LeetCode Stats](https://readmecodegen.vercel.app/api/leetcode-stats/paojangam?theme=dark&reputation=false&font=Montserrat%2C+Arial%2C+Helvetica%2C+sans-serif)
   <img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
   <img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
@@ -78,6 +79,7 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 ## 📫 Connect with Me
 
 <p align="center">
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/)  
   [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/paojangam/)  
   <img src="https://img.shields.io/badge/Email-paojangam1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> 
