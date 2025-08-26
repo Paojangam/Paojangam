@@ -5,7 +5,9 @@ I enjoy writing to express myself and building software that’s both useful and
 
 ---
 
-🚀 **Full Stack Developer** | React | Node.js | MongoDB | Python | AI Enthusiast 💡 Passionate about building scalable web apps, clean code, and AI-powered projects 🌱 Currently learning: Linux, PostgreSQL
+****🚀 **Full Stack Developer** | React | Node.js | MongoDB | Python | AI Enthusiast  
+💡 Passionate about building scalable web apps, clean code, and AI-powered projects  
+🌱 Currently learning: Linux, PostgreSQL****
 ---
 
 ## 🔧 Tech Stack & Skills
