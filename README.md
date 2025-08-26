@@ -1,7 +1,6 @@
 
 
 # 👋 Hi, I'm Paojangam Kipgen
-<img src="https://img.shields.io/badge/Email-paojangam1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> 
 
 
 🚀 **Full Stack Developer** | React | Node.js | MongoDB | Python | AI Enthusiast  
@@ -83,3 +82,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/paojangam/)  
+<img src="https://img.shields.io/badge/Email-paojangam1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> 
+
