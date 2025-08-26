@@ -53,6 +53,7 @@
 </p>
 
 <p align="center">
+  
   ![LeetCode Stats](https://readmecodegen.vercel.app/api/leetcode-stats/paojangam?theme=dark&reputation=false&font=Montserrat%2C+Arial%2C+Helvetica%2C+sans-serif)
   <img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
   <img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
