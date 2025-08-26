@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Paojangam Kipgen
 
-<!--
-**Paojangam/Paojangam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | React | Node.js | MongoDB | Python  
+💡 Passionate about building scalable web apps, clean code, and AI-powered projects.  
+🌱 Currently learning [ADD HERE]  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Frontend:** React, Tailwind, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express ,C++,Java 
+**Database:** MongoDB, SQL,Postgresql 
+**AI/ML:** Hugging Face, Python  
+**Other Tools:** Git, GitHub, VS Code, JWT Auth  
+
+---
+
+## 📂 Featured Projects
+
+- [🧠 Minders App](https://github.com/Paojangam/Minders) – Mental health app with AI mood detection, chatbot, journaling, and articles.  
+
+
+---
+
+
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/)  
+ 
+
+---
+
+## 💡 Fun / Personal Touch
+
+- 📚 I love to read books and explore new ideas.  
+- ✍️ I enjoy writing, especially poetry and personal reflections.  
+
+
