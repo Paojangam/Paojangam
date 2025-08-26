@@ -57,7 +57,6 @@
 <p align="center">
 
 <!-- GitHub Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paojangam&theme=dracula&hide_border=false" width="600" />
 
 </p>
 
@@ -65,6 +64,8 @@
 
 <!-- Extra fancy badges -->
 
+<img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
+<img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
 
 
 </p>
