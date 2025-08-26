@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Paojangam Kipgen
 
-"I dance between words and code — finding rhythm in algorithms and meaning in poetry. I craft software that’s both purposeful and expressive, while exploring new horizons in AI and full-stack development. 
+"I dance between words and code — finding rhythm in algorithms and meaning in poetry.  
+I craft software that’s both purposeful and expressive, while exploring new horizons in AI and full-stack development."
+
+---
 
 ## 🔧 Tech Stack & Skills
 
@@ -31,8 +34,14 @@
 </p>
 
 ---
-🌱 Currently Learning
-<p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
 ---
 
 ## 📂 Featured Projects
@@ -52,8 +61,7 @@
 </p>
 
 <p align="center">
-  
-  ![LeetCode Stats](https://readmecodegen.vercel.app/api/leetcode-stats/paojangam?theme=dark&reputation=false&font=Montserrat%2C+Arial%2C+Helvetica%2C+sans-serif)
+![LeetCode Stats](https://readmecodegen.vercel.app/api/leetcode-stats/paojangam?theme=dark&reputation=false&font=Montserrat%2C+Arial%2C+Helvetica%2C+sans-serif)
   <img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
   <img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
 </p>
@@ -67,4 +75,10 @@
 
 ---
 
-## 📫 Connect with Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/) [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/paojangam/) <img src="https://img.shields.io/badge/Email-paojangam1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+## 📫 Connect with Me
+
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/)  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/paojangam/)  
+  <img src="https://img.shields.io/badge/Email-paojangam1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</p>
