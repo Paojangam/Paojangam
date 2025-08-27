@@ -5,6 +5,8 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 
 ---
 
+<!-- -->
+
 ## 🔧 Tech Stack & Skills
 
 **Frontend:**  
