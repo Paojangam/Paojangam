@@ -61,11 +61,14 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 </p>
 
 <p align="center">
+  <img src="https://leetcard.jacoblin.cool/paojangam?theme=dark&font=Noto%20Sans%20Lycian&ext=heatmap"/> 
+</p>
 
-![LeetCode Stats](https://readmecodegen.vercel.app/api/leetcode-stats/paojangam?theme=dark&reputation=false&font=Montserrat%2C+Arial%2C+Helvetica%2C+sans-serif)
+<p align="center">
   <img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
   <img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
 </p>
+
 
 ---
 
