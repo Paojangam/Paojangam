@@ -52,6 +52,7 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 | ------- | ----------- | ---- |
 | 🧠 **Minders App** | Mental health app with AI mood detection, chatbot, journaling, exercises, and articles | [GitHub](https://github.com/Paojangam/Minders) |
 | 🚗 **EV Update** | Web app that allows EV owners to update their Vehicle Software | [GitHub](https://github.com/AvinashxDubey/DriveSync) |
+| 🛒 **Amazon Clone** | Full-stack Amazon Clone with authentication, cart, product listings, and checkout flow | [GitHub](https://github.com/Paojangam/AmazonClone) |
 
 ---
 
