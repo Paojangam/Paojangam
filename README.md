@@ -78,7 +78,8 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 ## 💡 Fun / Personal Touch
 
 - 📚 I love to read books and explore new ideas  
-- ✍️ I enjoy writing, especially poetry and personal reflections  
+- ✍️ I enjoy writing, especially poetry and personal reflections
+
 
 ---
 
