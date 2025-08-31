@@ -41,8 +41,9 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-00ADEF?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
+
 
 ---
 
