@@ -72,7 +72,7 @@ I craft software that’s both purposeful and expressive, while exploring new ho
   <img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
   <img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
 </p>
-![Contribution Snake](https://raw.githubusercontent.com/Paojangam/Paojangam/main/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/<your-username>/<your-username>/output/snake-dark.svg#gh-dark-mode-only)
 
 
 ---
