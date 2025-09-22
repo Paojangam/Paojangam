@@ -44,7 +44,6 @@ I craft software that’s both purposeful and expressive, while exploring new ho
   <img src="https://img.shields.io/badge/Cloud_Computing-00ADEF?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-
 ---
 
 ## 📂 Featured Projects
@@ -60,20 +59,22 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paojangam&count_private=true&show_icons=true&theme=dracula&hide_border=false" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Paojangam&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paojangam&layout=compact&theme=dracula&hide_border=false" width="320" />
 </p>
 
- <p align="center">
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/paojangam?theme=dark&font=Noto%20Sans%20Lycian&ext=heatmap"/> 
-</p> 
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
   <img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
 </p>
-<!--![GitHub Snake Dark](https://raw.githubusercontent.com/Paojangam/Paojangam/output/snake-dark.svg#gh-dark-mode-only) -->
 
+<!--
+![GitHub Snake Dark](https://raw.githubusercontent.com/Paojangam/Paojangam/output/snake-dark.svg#gh-dark-mode-only)
+-->
 
 ---
 
@@ -82,14 +83,16 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 - 📚 I love to read books and explore new ideas  
 - ✍️ I enjoy writing, especially poetry and personal reflections
 
-
 ---
 
 ## 📫 Connect with Me
 
 <p align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/)  
-  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/paojangam/)  
+  <a href="https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
+  <a href="https://leetcode.com/u/paojangam/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>  
   <img src="https://img.shields.io/badge/Email-paojangam1234@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </p>
