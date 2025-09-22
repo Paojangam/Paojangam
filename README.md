@@ -64,9 +64,9 @@ I craft software that’s both purposeful and expressive, while exploring new ho
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paojangam&layout=compact&theme=dracula&hide_border=false" width="320" />
 </p>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://leetcard.jacoblin.cool/paojangam?theme=dark&font=Noto%20Sans%20Lycian&ext=heatmap"/> 
-</p> -->
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
