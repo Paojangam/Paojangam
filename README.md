@@ -4,7 +4,10 @@
 I craft software that’s both purposeful and expressive, while exploring new horizons in AI and full-stack development."
 
 ---
-
+<p align="center">
+  <!-- Trophies -->
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Paojangam&theme=onedark&margin-w=10&margin-h=10" />
+</p>
 <!-- -->
 
 ## 🔧 Tech Stack & Skills
@@ -59,22 +62,24 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paojangam&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paojangam&layout=compact&theme=dracula&hide_border=false" width="320" />
+  <!-- Overall GitHub Stats -->
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Paojangam&show_icons=true&theme=tokyonight&count_private=true" width="450" />
+
+  <!-- Top Languages -->
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paojangam&layout=compact&theme=tokyonight" width="320" />
 </p>
+
+
+<!-- Contribution heatmap (works well) -->
+<p align="center">
+  <img alt="Contribution chart" src="https://ghchart.rshah.org/Paojangam" />
+</p>
+
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/paojangam?theme=dark&font=Noto%20Sans%20Lycian&ext=heatmap"/> 
+  <img alt="GitHub Streak" src="https://git-hub-streak-stats.vercel.app/?user=Paojangam&theme=react&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/Paojangam/Minders?style=for-the-badge&logo=github" /> 
-  <img src="https://img.shields.io/github/issues/Paojangam/Minders?style=for-the-badge&logo=github" /> 
-</p>
-
-<!--
-![GitHub Snake Dark](https://raw.githubusercontent.com/Paojangam/Paojangam/output/snake-dark.svg#gh-dark-mode-only)
--->
 
 ---
 
