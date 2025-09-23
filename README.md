@@ -70,14 +70,12 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 </p>
 
 
+<p align="center">
+  <img alt="GitHub Streak" src="https://git-hub-streak-stats.vercel.app/?user=Paojangam&theme=react&hide_border=false" />
+</p>
 <!-- Contribution heatmap (works well) -->
 <p align="center">
   <img alt="Contribution chart" src="https://ghchart.rshah.org/Paojangam" />
-</p>
-
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://git-hub-streak-stats.vercel.app/?user=Paojangam&theme=react&hide_border=false" />
 </p>
 
 
