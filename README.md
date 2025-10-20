@@ -68,7 +68,7 @@ I got miles to go before i sleep, miles to go before i sleep
 
 ---
 
-## Hit me up: 🤙:
+## Hola at me: 🤙:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/">
