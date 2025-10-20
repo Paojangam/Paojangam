@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Paojangam Kipgen
-so long as you live , it is worth trying
+# 👋 𝐇𝐢, 𝐈'𝐦 𝐏𝐚𝐨𝐣𝐚𝐧𝐠𝐚𝐦 𝐊𝐢𝐩𝐠𝐞𝐧
+I got miles to go before i sleep, miles to go before i sleep  
+~Robert Frost
 
 ---
 
 
-## these are the tools and techs that i work with
-
+## These are the tools and techs that i work with and have mastered along the way
 **Frontend:**  
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -68,7 +68,7 @@ so long as you live , it is worth trying
 
 ---
 
-## 📫 Hit me up:
+## Hit me up: 🤙:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/">
