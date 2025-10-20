@@ -4,11 +4,7 @@
 I craft software that’s both purposeful and expressive, while exploring new horizons in AI and full-stack development."
 
 ---
-<p align="center">
-  <!-- Trophies -->
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Paojangam&theme=onedark&margin-w=10&margin-h=10" />
-</p>
-<!-- -->
+
 
 ## 🔧 Tech Stack & Skills
 
@@ -47,23 +43,12 @@ I craft software that’s both purposeful and expressive, while exploring new ho
   <img src="https://img.shields.io/badge/Cloud_Computing-00ADEF?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
----
 
-## 📂 Featured Projects
 
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| 🧠 **Minders App** | Mental health app with AI mood detection, chatbot, journaling, exercises, and articles | [GitHub](https://github.com/Paojangam/Minders) |
-| 🚗 **EV Update** | Web app that allows EV owners to update their Vehicle Software | [GitHub](https://github.com/AvinashxDubey/DriveSync) |
-| 🛒 **Amazon Clone** | Full-stack Amazon Clone with authentication, cart, product listings, and checkout flow | [GitHub](https://github.com/Paojangam/Amazon-Clone) |
 
----
-
-## 📈 GitHub Stats & Activity
+## 📈 GitHub stuff
 
 <p align="center">
-  <!-- Overall GitHub Stats -->
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Paojangam&show_icons=true&theme=tokyonight&count_private=true" width="450" />
 
   <!-- Top Languages -->
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paojangam&layout=compact&theme=tokyonight" width="320" />
@@ -73,22 +58,19 @@ I craft software that’s both purposeful and expressive, while exploring new ho
 <p align="center">
   <img alt="GitHub Streak" src="https://git-hub-streak-stats.vercel.app/?user=Paojangam&theme=react&hide_border=false" />
 </p>
-<!-- Contribution heatmap (works well) -->
-<p align="center">
-  <img alt="Contribution chart" src="https://ghchart.rshah.org/Paojangam" />
-</p>
+
 
 
 ---
 
-## 💡 Fun / Personal Touch
+## 💡 Stuff i do to chill out:
 
 - 📚 I love to read books and explore new ideas  
 - ✍️ I enjoy writing, especially poetry and personal reflections
 
 ---
 
-## 📫 Connect with Me
+## 📫 Hit me up:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paojangam-namcha-kipgen-594557240/">
