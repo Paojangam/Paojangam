@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Paojangam Kipgen
-
-"I dance between words and code — finding rhythm in algorithms and meaning in poetry.  
-I craft software that’s both purposeful and expressive, while exploring new horizons in AI and full-stack development."
+so long as you live , it is worth trying
 
 ---
 
 
-## 🔧 Tech Stack & Skills
+## these are the tools and techs that i work with
 
 **Frontend:**  
 <p align="left">
